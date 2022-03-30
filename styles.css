@@ -24,7 +24,7 @@
 .bgimage {
     height: 100vh;
     max-width: 100%;
-    background-image: url("http://127.0.0.1:5500/imgs/nicholas.jpg");
+    background-image: url("https://github.com/nicholasvrobbins/bootstrap-website/blob/master/imgs/nicholas.jpg?raw=true");
     background-size: cover;
     background-position: center center;
     position: relative;
